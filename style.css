@@ -1,0 +1,12 @@
+body {
+    background-image: url("image/home.jpg");
+    background-size: cover; /* Optional: To make sure the image covers the entire body */
+    background-position: center; /* Optional: To center the image */
+    background-color: transparent;
+   
+}
+form {
+    background-image: url("image/home.jpg");
+
+
+}
